@@ -1,0 +1,4 @@
+[bindings.kotlin]
+package_name = "com.example.counter.shared"
+cdylib_name = "shared"
+
